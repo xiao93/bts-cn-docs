@@ -1,0 +1,11 @@
+1、BitShares 5.0.0 版本已发布，代号“水花”
+https://bitsharestalk.org/index.php?topic=32635.0
+
+2、测试网版本 test-5.0.0 及 AMM 池命令行教程
+https://bitsharestalk.org/index.php?topic=32631.0
+
+3、计划9月30日上线BTS 5.0
+https://bitsharestalk.org/index.php?topic=32628.0
+
+4、【千万深度】做市机器人大赛 / 做市商奖励计划
+https://bitsharestalk.org/index.php?topic=29665.0
